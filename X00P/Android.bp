@@ -227,9 +227,9 @@ android_app_import {
 }
 
 android_app_import {
-	name: "embms",
+	name: "imssettings",
 	owner: "asus",
-	apk: "proprietary/product/app/embms/embms.apk",
+	apk: "proprietary/product/app/imssettings/imssettings.apk",
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
